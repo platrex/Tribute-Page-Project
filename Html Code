@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css" />
+    <title>John McCarthy (computer scientist)</title>
+</head>
+<title id="title">John McCarthy (computer scientist) </title>
+<body>
+    <h1>John McCarthy</h1>
+    <h2 class="text-center">The Father of Artificial Intelligence</h2>
+    
+    <main id="main">
+        <div id="img-div">
+            <img id="image" src="https://ichef.bbci.co.uk/news/1024/media/images/56264000/jpg/_56264828_johnmccarthy2.jpg" alt="John McCarthy">
+            <div id="img-caption">John McCarthy (computer scientist)</div>
+        </div>
+        
+        <div id="tribute-info">
+            <h3>Here's a timeline of John McCarthy</h3>
+            <ul>
+                <li><strong>1927</strong> - Born in Boston, Massachusetts, U.S.</li>
+                <li><strong>1945</strong> - Graduates from Harvard University with a degree in mathematics.</li>
+                <li><strong>1951</strong> - Begins working on early computing machines, contributing to programming and computation theory.</li>
+                <li><strong>1956</strong> - Coined the term "artificial intelligence" and organizes the Dartmouth Conference, marking the official start of AI as a field of study.</li>
+                <li><strong>1958</strong> - Develops the LISP programming language, which becomes a standard tool for AI programming.</li>
+                <li><strong>1960s</strong> - Conducts research in AI, focusing on machine learning, reasoning, and knowledge representation.</li>
+                <li><strong>1971</strong> - Receives the Turing Award for his contributions to computer science and AI.</li>
+                <li><strong>1980s</strong> - Continues his work at Stanford University, influencing generations of AI researchers.</li>
+                <li><strong>1990s</strong> - Advocates for the ethical implications of AI and its impact on society.</li>
+                <li><strong>2005</strong> - Publishes works discussing the future of AI and the potential of machines to simulate human intelligence.</li>
+                <li><strong>2011</strong> - Passes away at the age of 84, leaving a legacy as one of the most influential figures in the field of artificial intelligence.</li>
+            </ul>
+        </div>
+
+        <a id="tribute-link" href="https://example.com" target="_blank">Learn more about this person</a>
+    </main>
+</body>
+</html>
+<footer>
+    All rights reserved - Hussein Hodroj
+</footer>
+
