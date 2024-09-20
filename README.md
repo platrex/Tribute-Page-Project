@@ -1,6 +1,3 @@
-# Tribute-Page-Project
-This project showcases a brief timeline of John McCarthy, the pioneer and father of artificial intelligence. The webpage highlights significant milestones in McCarthy’s life, his contributions to computer science, and his lasting legacy in AI research. It includes:
-
 HTML Structure:
 I structured the webpage using basic HTML. I used appropriate heading tags (<h1>, <h2>, etc.) to represent the title and sections. The timeline is presented as a list of significant events in McCarthy’s life, using <ul> and <li> elements for readability.
 
