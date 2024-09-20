@@ -1,3 +1,5 @@
+
+
 HTML Structure:
 I structured the webpage using basic HTML. I used appropriate heading tags (<h1>, <h2>, etc.) to represent the title and sections. The timeline is presented as a list of significant events in McCarthy’s life, using <ul> and <li> elements for readability.
 
